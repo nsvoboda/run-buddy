@@ -13,4 +13,4 @@ https://nsvoboda.github.io/run-buddy
 ## Contribution
 Made with ❤️  by Nate
 
-# ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
